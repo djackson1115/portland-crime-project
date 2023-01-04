@@ -13,6 +13,11 @@ Install R 4.1 or later (optionally, install RStudio as an IDE) and load the foll
 install.packages(c("tidyverse", "sf", "gt", "gtExtras", "RColorBrewer"))
 ```
 
+## Scripts
+``` 
+arson.r
+```
+
 ## Sources
 
 U.S. Census Bureau, City of Portland Maps, GIS, and Open Data
