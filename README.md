@@ -13,7 +13,8 @@ Install R 4.1 or later (optionally, install RStudio as an IDE) and load the foll
 install.packages(c("tidyverse", "sf", "gt", "gtExtras", "RColorBrewer"))
 ```
 ## Data
-- ```CrimeData-2021.csv ```
+- ```CrimeData-2021.csv ``` Publicly available crime data from the City of Portland, encompasses all reported incidents during 2021.
+- ```PDX_2020_ACS_chng.csv``` American Community Survey (ACS) 2020 data for the City of Portland, with neighborhood names fixed.
 
 ## Scripts
 - ```arson.R``` Uses ACS and crime data to generate some neat maps and tables for reported arson incidents in Portland.
