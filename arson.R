@@ -9,7 +9,6 @@ library(gtExtras)
 
 # rm(list = ls())
 setwd("C:/Users/drewj/Downloads/Portland City Project")
-register_google(key = "AIzaSyD7Hst3YiAK510H2awymV_2Yz89Y-QstSM") # API key for Google Maps
 
 # read in CSV file and import shapefiles for neighborhoods and streets
 pdx.crime <- read_csv("Data/CrimeData-2021.csv")
