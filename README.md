@@ -12,6 +12,9 @@ Install R 4.1 or later (optionally, install RStudio as an IDE) and load the foll
 ```
 install.packages(c("tidyverse", "sf", "gt", "gtExtras", "RColorBrewer"))
 ```
+## Data
+- ```CrimeData-2021.csv ```
+
 ## Scripts
 - ```arson.R``` Uses ACS and crime data to generate some neat maps and tables for reported arson incidents in Portland.
 
